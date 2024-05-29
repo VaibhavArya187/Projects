@@ -1,0 +1,30 @@
+.Heading {
+	background-color: yellow;
+	color: red;
+	font-style: italic;
+	font-weight: 200;
+}
+
+.heading-columns {
+	font-style: bold;
+	color: blueviolet;
+}
+
+.area {
+	color: blueviolet;
+	height: 30px;
+	width: 200px;
+}
+
+.bhk-no {
+	align-content: center;
+	height: 30px;
+	background-color: blueviolet;
+}
+
+.bath {
+	align-content: center;
+	height: 30px;
+	background-color: blueviolet;
+}
+
